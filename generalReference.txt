@@ -1,0 +1,12 @@
+WINDOW MANAGEMENT
+-------------------------------------------------------
+ctr+shift+t           New tab in terminal
+ctrl+shift+n          New window in terminal
+
+TERMINAL 
+--------------------------------------------------------
+ctrl+a                    Set cursor to start of line
+ctrl+e                    Set cursor to end of line
+ctrl+u                    Delete from start until cursor
+ctrl+k                    Delete from cursor until end
+ctrl+r                    Search history

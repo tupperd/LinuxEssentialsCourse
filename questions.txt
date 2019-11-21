@@ -1,0 +1,8 @@
+QUESTION:
+- What is the difference between pipes and redirection?
+ANSWER: 
+- Pipe is used to pass output to another program or utility.
+- Redirect is used to pass output to either a file or stream.
+- A pipe connects the stdout of one process to the stdin of another
+- Redirection redirects from/to a file (> from stdout to a file, 
+  < from a file to stdin)

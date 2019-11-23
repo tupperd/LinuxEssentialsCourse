@@ -22,7 +22,19 @@ FILE MANAGEMENT
 "cd /"                    Root directory
 "cd -"                    Previous directory
 
+PERMISSIONS
+-----------------------------------------------------------
+chmod: u=owner, g = group, a=all users
+chmod <u/g/a>=<r/w/x> to grant file permissions
+chmod <u/g/a>-<r/w/x> to remove file permissions
+
+chown: change ownersnhip of file
+chgrp: change group of file 
+
+-rw-r--r-- 1 <owner> <group>    0 Nov 23 15:36 test.txt
+
 GENERAL
 -----------------------------------------------------------
 whatis                    General description of command
                           (more concise version of man)
+

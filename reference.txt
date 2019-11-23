@@ -15,6 +15,7 @@ ctrl+e                    Set cursor to end of line
 ctrl+u                    Delete from start until cursor
 ctrl+k                    Delete from cursor until end
 ctrl+r                    Search history
+ctrl+l                    Clears terminal
 
 FILE MANAGEMENT
 -----------------------------------------------------------
